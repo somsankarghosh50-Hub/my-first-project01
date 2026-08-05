@@ -1,9 +1,23 @@
-#This is my first project.
+# My First Project
 
-This is my first GitHub project.
-##what i learned.
-1.Creating a GitHub reository
-2.Using Git
-3.Commit and Push
-4.Github pages
-Created by:Somsankar Ghosh
+This is my first GitHub project created while learning Git and GitHub.
+
+## Technologies Used
+- HTML
+
+## Features
+- Basic HTML page
+- First GitHub repository
+- GitHub Pages enabled
+
+## What I Learned
+- Creating a GitHub repository
+- Git add
+- Git commit
+- Git push
+- GitHub Pages
+
+## Author
+Somsankar Ghosh
+
+Thank you for visiting my first project!
